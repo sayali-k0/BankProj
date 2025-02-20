@@ -6,4 +6,8 @@ public class Utility {
 	public Date getDate() {
 		return new Date();
 	}
+	
+	public void m2() {
+		System.out.println("m2 added");
+	}
 }
